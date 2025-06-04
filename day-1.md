@@ -1,4 +1,8 @@
-# Here's a h1 heading
+# Day 1 Blog Post
 
-## Here's a h2 heading
+## Planning
+- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
+
 ## And another
